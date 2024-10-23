@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-App calculadora, realizado durante o curso de desenvolvimento web.
+App calculadora, realizado durante o curso de desenvolvimento web, capaz de realizar diversos calculos aritméticos.
 
 # Página Inicial
 
