@@ -14,6 +14,8 @@ App calculadora, realizado durante o curso de Javascript, capaz de realizar dive
 
 - CSS3
 
+- Javascript
+- 
 # Autor
 
 Hayghlander Marques de Jesus Pereira
